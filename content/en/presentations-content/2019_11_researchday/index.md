@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 url_slides: 
 url_video: "en/presentations-content/2019_11_researchday/"
-summary: Présentation lors du Research Day de la School of Communication Sciences and Disorders 2019
+summary: Short talk for the 2019 School of Communication Sciences & Disorders Research Day
 tags:
 - Conference
 title: "Meaningful relationships: when the brain sees it coming and when it does not!"

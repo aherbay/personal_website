@@ -7,7 +7,7 @@ image:
 url_slides: "en/presentations-content/2020_11_bayesian_data_analyses/BayesianDataAnalysis2020.pdf"
 summary: Lab Meeting presentation
 tags:
-- Conference
+- Autre
 title: "Bayesian Data Analysis - a brief introduction"
 ---
 
