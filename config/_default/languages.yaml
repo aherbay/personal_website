@@ -90,10 +90,10 @@ fr:
         url: fr/publication/
         weight: 40
       - name: Présentations
-        url: fr/presentations_fr/
+        url: fr/presentations/
         weight: 50
       - name: Tutoriels
-        url: fr/tutorials_fr/
+        url: fr/tutorials/
         weight: 60
       - name: CV
         url: ''
