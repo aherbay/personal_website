@@ -30,6 +30,8 @@ content:
       tag: '*'
     - name: R
       tag: 'R'
+    - name: git
+      tag: git
     - name: Linguistique
       tag: Linguistique
 design:

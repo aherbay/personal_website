@@ -5,9 +5,9 @@ image:
   caption: Cover picture
   focal_point: Smart
 url_slides: 
-summary: Description coming soon
+summary: Description à venir
 tags:
-- Research project
+- Projet de recherche
 title: "Ajuster les propriétés d'un gel de réparation des cordes vocales pour réduire la réponse immunitaire"
 ---
 

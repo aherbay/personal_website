@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Education
+title: Éducation
 subtitle:
 
 # Date format for experience
@@ -87,4 +87,4 @@ design:
 
 <p style="text-align: center;"> <a style='margin-right: 20px' href="#education">Éducation</a> 
 <a style='margin-right: 20px' href="#experience">Expérience Professionnelle</a>
-<a style='margin-right: 20px' href="#awards">'Distinctions & Bourses'</a> </p>
+<a style='margin-right: 20px' href="#awards">Distinctions & Bourses</a> </p>
