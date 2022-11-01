@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexandre Herbay</title>
+    <link>https://www.alexandreherbay.com/en/</link>
+      <atom:link href="https://www.alexandreherbay.com/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexandre Herbay</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.alexandreherbay.com/media/icon_hu19e7c546e42d61034afff766b8d5a5af_148001_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexandre Herbay</title>
+      <link>https://www.alexandreherbay.com/en/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://www.alexandreherbay.com/en/publication/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERPscope: a new R package to visualize and analyze Event-Related Potential data</title>
+      <link>https://www.alexandreherbay.com/en/publication/erpscope/</link>
+      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/erpscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic hierarchical structures modulate within-sentence semantic priming beyond linear distance in self-paced reading</title>
+      <link>https://www.alexandreherbay.com/en/publication/spass/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/spass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neurocognitive mechanisms underlying proactive and retrospective semantic relational priming as revealed by event-related potentials elicited by prime and target words</title>
+      <link>https://www.alexandreherbay.com/en/publication/pop2/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/pop2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The influence of sentence structure on brain processing of the meaning of upcoming word</title>
+      <link>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</link>
+      <pubDate>Sat, 31 Dec 2022 15:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to R an RStudio</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/r_introduction/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/r_introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a project in R Studio</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/create-r-project/</link>
+      <pubDate>Fri, 20 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/create-r-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The modulation of semantic association effects by relational and syntactic structures - Brain &amp; behavioral correlates</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2022_thesis_defence/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2022_thesis_defence/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create an R project versioned with git</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/create-versioned-project/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/create-versioned-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create an RMarkdown document</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/rmarkdown_doc/</link>
+      <pubDate>Sun, 20 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/rmarkdown_doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set up git and GitHub</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</link>
+      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use git commands within RStudio</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub repo and versioned R project</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faire une table de vérité en sémantique formelle</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/table_verite/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/table_verite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Influence of Hydrogel Stiffness and Fibroblasts on Macrophage Polarisation: Implication for the Inflammatory Response to Vocal Fold Biomaterials.</title>
+      <link>https://www.alexandreherbay.com/en/publication/elisa/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/elisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic relations and word prediction in the brain </title>
+      <link>https://www.alexandreherbay.com/en/research-content/priming_of_priming/</link>
+      <pubDate>Tue, 31 Aug 2021 15:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/research-content/priming_of_priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERPscope</title>
+      <link>https://www.alexandreherbay.com/en/software/erpscope/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/software/erpscope/</guid>
+      <description>&lt;h2 id=&#34;what-are-erps&#34;&gt;What are ERPs?&lt;/h2&gt;
+&lt;p&gt;ERP or Event-Related Potentials are a neuroimaging technique based on EEG, or electro-encephalography. Electrodes are placed on the scalp to record the electrical activity of the brain in real time. ERP research focuses on the brain&amp;rsquo;s electrical activity in the milliseconds that follows specific events (e.g., presentation of a specific word, picture or sound). Metaphorically, we could compare it to setting up 64 microphones over an arena during a hockey game. The idea is then to infer how does hockey work using the sound recording. For example we notice a big clamour coming from one side of the arena when one of the two teams scores).&lt;/p&gt;
+&lt;h2 id=&#34;looking-at-erp-data&#34;&gt;Looking at ERP data&lt;/h2&gt;
+&lt;p&gt;The resulting data for each participants is usually data for hundreds of items for several dozens of electrodes. This data are preprocessed from the continuous recording of the brain&amp;rsquo;s electrical activity (filtering, correction, removal of noise data&amp;hellip;) using different existing toolboxes (e.g., Fieldtrip, EEGLab, ERPLab, MNE Python). However, in these toolboxes, it can be a challenge to create customized plots to display these data. Moreover, data are often exported to the R environment to perform advanced statistical modeling. ERPscope was developped with the idea of completing this gap without replacing any other tool.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;&#34;&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Caption&#34; srcset=&#34;
+               /en/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_c5ed2c175403d3d4c59c1e9be0534add.webp 400w,
+               /en/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_1e4280edbedfa58a1a270e57c4de34ab.webp 760w,
+               /en/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://www.alexandreherbay.com/en/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_c5ed2c175403d3d4c59c1e9be0534add.webp&#34;
+               width=&#34;609&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;goals-of-erpscope-plot-and-explore&#34;&gt;Goals of ERPscope: plot and explore&lt;/h2&gt;
+&lt;p&gt;The first goal of ERPscope is to visualize the data through three classic plots:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ERP plots&lt;/li&gt;
+&lt;li&gt;Difference wave plots&lt;/li&gt;
+&lt;li&gt;Voltage maps or topoplots&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The second goal is to facilitate data exploration and more specifically:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Assess the variability of ERP effects accross participants through correlation plots between ERP effects and external variable&lt;/li&gt;
+&lt;li&gt;Run the same model across different time-windows&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;More details will come soon.
+The abstract of the preprint of the paper ERPscope can be found below.
+Morevoer, ERPscope can be found on GitHub: &lt;a href=&#34;http://www.erpscope.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.erpscope.com&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;A crucial step of scientific research is visualizing the data, which can be especially challenging with multidimensional EEG data. Several toolboxes exist to preprocess EEG data involving different platforms, but their plotting capacities are often limited, difficult to use, or difficult to customize. As many researchers already export their data to the R environment (R Core Team, 2017) in order to run statistical analyses, it would be best to also take full advantage of R’s plotting capabilities. Here we present ERPscope, a freely available R package that makes it easy to visualize, quantify, and statistically analyze ERP data. This user-friendly package allows the creation of ERP graphs and voltage maps with flexible and intuitive customization options. It offers a set of functions to plot ERP waves (plot_erp) and difference waves (plot_difference) for multiple individual electrodes or regions of interest. Both functions can add labels at specific time points (e.g. “target”), plot confidence intervals around the average waveform, indicate the baseline interval used in preprocessing, and apply alternative (simulated) baseline corrections to the data. Graph background, line colors, line types and thickness are easily adjustable for each ERP wave. It is also possible to display the results of a running t-test between two conditions at each electrode along with the ERP difference wave and to plot voltage maps for customized time windows. The function plot_cor_with_erp computes and plots the correlation between an ERP effect in a given time window and an external variable (e.g., performance data) for various scalp regions. Finally, using generate_ERP_stats_table, one can run the same statistical model across different time windows and create an easy-to-read table that highlights significant factors (optionally color-coded according to polarity). ERPscope is compatible with most existing data analysis pipelines. For further details and illustrations, please visit &lt;a href=&#34;https://www.erpscope.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.erpscope.org&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian Data Analysis - a brief introduction</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2020_11_bayesian_data_analyses/</link>
+      <pubDate>Mon, 23 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2020_11_bayesian_data_analyses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERPscope: A new R package to easily visualize ERP data.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2020_2/</link>
+      <pubDate>Fri, 09 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2020_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ERPs reveals that context modulates real-time processing of semantic relations through prime word evaluation and relational similarity.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2020_1/</link>
+      <pubDate>Sat, 21 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2020_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Des applications sur tablettes pour évaluer et stimuler le langage des enfants</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2019_11_apps/</link>
+      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2019_11_apps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stimuler le développement cognitif et langagier.</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2019_11_dev_langage/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2019_11_dev_langage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Le temps d&#39;une relation sémantique: quand le cerveau prédit ou non le mot à venir</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2019_11_vocum/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2019_11_vocum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meaningful relationships: when the brain sees it coming and when it does not!</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2019_11_researchday/</link>
+      <pubDate>Thu, 14 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2019_11_researchday/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+&lt;video controls  &gt;
+  &lt;source src=&#34;https://www.alexandreherbay.com/media/final_4_light.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Lexical pre-activation and post-lexical integration accounts of the N400 ERP effect: When semantic relational priming interacts with words’ syntactic categories.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2019_3/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2019_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reevaluating the dynamics of auditory sentence processing: an ERP study in French.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2019_2/</link>
+      <pubDate>Tue, 20 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2019_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immunological profiling of vocal fold hydrogel scaffolds.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2019_1/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2019_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging and language: Maintenance of morphological representations in older adults</title>
+      <link>https://www.alexandreherbay.com/en/publication/aging-morphology/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/aging-morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How does the processing of the word form, morphology and word meaning change during aging?</title>
+      <link>https://www.alexandreherbay.com/en/research-content/aging_morphology/</link>
+      <pubDate>Tue, 01 Jan 2019 13:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/research-content/aging_morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can we process a late-learned second language like native speakers?</title>
+      <link>https://www.alexandreherbay.com/en/research-content/verb_particle_l2/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/research-content/verb_particle_l2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Do French–English Bilinguals Pull Verb Particle Constructions Off? Factors Influencing Second Language Processing of Unfamiliar Structures at the Syntax-Semantics Interface</title>
+      <link>https://www.alexandreherbay.com/en/publication/vpcl2/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/vpcl2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>When the N400 effect reflects post-lexical integration rather than predictive processes: the case of relational semantic priming.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2018_3/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2018_3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contrasting lexical pre-activation, prediction-based and post-lexical integration accounts of the N400 ERP effect in priming studies.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2018_1/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2018_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Priming semantic priming reveals post-lexical integration effects on the N400 ERP component.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2018_2/</link>
+      <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2018_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of a Tool to Screen Risk of Literacy Delays in French-Speaking Children: PHOPHLO.</title>
+      <link>https://www.alexandreherbay.com/en/publication/phophlo/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/phophlo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Can French-English bilinguals process verb-particle constructions in a native-like manner?</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2017_06_bimo/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2017_06_bimo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Les mécanismes neurocognitifs sous-jacents aux aspects de sémantique logique du traitement de la phrase : une étude en Potentiel Évoqués (PÉs) sur la vérification des conditions de vérités.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2017_2/</link>
+      <pubDate>Wed, 10 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2017_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurocognitive mechanisms underlying truth-conditional and logical semantic aspects of sentence processing as revealed by event-related potentials (ERPs).</title>
+      <link>https://www.alexandreherbay.com/en/publication/2017_1/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2017_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Routes to Visual Word Recognition Modelling - A comparative analysis of 3 computational models of reading aloud</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2016_12_comps/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2016_12_comps/</guid>
+      <description>&lt;p&gt;a&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Une application pour évaluer les capacités de langage oral des enfants : Phophlo et sa première évaluation.</title>
+      <link>https://www.alexandreherbay.com/en/publication/2016_2/</link>
+      <pubDate>Tue, 15 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2016_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Peut-on traiter une langue seconde comme les locuteurs natifs ? Le cas des francophones et des verbes à particules en anglais. </title>
+      <link>https://www.alexandreherbay.com/en/publication/2016_1/</link>
+      <pubDate>Mon, 09 May 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/publication/2016_1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adjusting the properties of a vocal fold repair gel to reduce the immune response</title>
+      <link>https://www.alexandreherbay.com/en/research-content/vocal_fold_gel/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/research-content/vocal_fold_gel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction à la sémantique formelle</title>
+      <link>https://www.alexandreherbay.com/en/presentations-content/2013_11_semantique_formelle/</link>
+      <pubDate>Sat, 23 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations-content/2013_11_semantique_formelle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.alexandreherbay.com/en/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.alexandreherbay.com/en/presentations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/presentations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.alexandreherbay.com/en/profile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/profile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.alexandreherbay.com/en/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.alexandreherbay.com/en/tutorials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8739,8 +8739,7 @@ footer .powered-by {
   margin-top: 12px; }
 
 .media.stream-item img {
-  max-width: 400px;
-  min-width: 400px;
+  max-width: 150px;
   height: auto;
   object-fit: cover; }
 
