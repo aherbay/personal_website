@@ -4,7 +4,7 @@ abstract: "A crucial step of scientific research is visualizing the data, which 
 authors:
 - admin
 
-date:
+date: 'To be submitted'
 doi: 
 featured: false
 image:
@@ -16,7 +16,7 @@ publication:
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "In preparation"
+publishDate: "2022-10-31T00:00:00Z"
 slides: 
 summary: 
 tags:
