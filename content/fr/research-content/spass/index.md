@@ -1,6 +1,5 @@
 ---
 date: "2022-12-15T00:00:00Z"
-external_link: 
 image:
   caption: Cover picture
   focal_point: Smart

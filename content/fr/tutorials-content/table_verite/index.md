@@ -1,5 +1,5 @@
 ---
-date: "2017-06-20T00:00:00Z"
+date: "2021-11-20T00:00:00Z"
 external_link: "/en/tutorials-content/table_verite/Semantique_Fornelle_Faire_une_table_de_verite.pdf"
 image:
   caption: Cover picture

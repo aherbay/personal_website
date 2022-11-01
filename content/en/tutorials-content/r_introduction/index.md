@@ -1,5 +1,5 @@
 ---
-date: "2017-06-20T00:00:00Z"
+date: "2022-06-20T00:00:00Z"
 external_link: "/en/tutorials-content/r_introduction/IntroductionToR.v0.2.3.pdf"
 image:
   caption: Cover picture

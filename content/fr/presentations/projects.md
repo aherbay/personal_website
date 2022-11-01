@@ -29,8 +29,8 @@ content:
       tag: '*'
     - name: Cours invité
       tag: 'Cours invité'
-    - name: Conference
-      tag: Conference
+    - name: Conférence
+      tag: Conférence
     - name: Autre
       tag: Autre
 

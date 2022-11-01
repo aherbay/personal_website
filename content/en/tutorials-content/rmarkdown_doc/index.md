@@ -1,5 +1,5 @@
 ---
-date: "2017-06-20T00:00:00Z"
+date: "2022-03-20T00:00:00Z"
 external_link: "/en/tutorials-content/rmarkdown_doc/Create_an_RMarkdown_document.pdf"
 image:
   caption: Cover picture
