@@ -8,9 +8,9 @@ url_slides:
 summary: Un petit tutoriel pour construire la table de vérité d'un énoncé
 tags:
 - Tutorial
-- Linguistique
-- Sémantique
-- Logique
+- Linguistic
+- Semantics
+- Logic
 title: "Faire une table de vérité en sémantique formelle"
 ---
 
