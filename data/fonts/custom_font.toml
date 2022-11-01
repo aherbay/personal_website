@@ -1,0 +1,13 @@
+# Font style metadata
+name = "My custom font"
+
+# Optional Google font URL
+google_fonts = "family=Roboto+Mono&family=Source+Sans+Pro:wght@400;700"
+
+# Font families
+heading_font = "Source Sans Pro"
+body_font = "Roboto Mono"
+nav_font = "Source Sans Pro"
+mono_font = "Roboto Mono"
+
+

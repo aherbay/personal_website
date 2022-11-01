@@ -1,0 +1,123 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://wowchemy.com/docs/guide/language/
+
+# Default language
+en:
+  languageCode: en-us
+  contentDir: content/en
+  title: Alexandre Herbay
+  menu:
+    main:
+      - name: Home
+        url: '#about'
+        weight: 10
+      - name: Detailed profile
+        url: en/profile/
+        weight: 15
+      - name: Software
+        url: '#posts'
+        weight: 20
+      - name: ERPscope
+        parent: Software
+        url: en/software/erpscope/
+        weight: 10
+      - name: SAILS
+        parent: Software
+        url: http://www.dialspeech.info/sails-en.html
+        weight: 20
+      - name: Phophlo
+        parent: Software
+        url: http://www.dialspeech.info/phophlo-en.html
+        weight: 30
+      - name: Research
+        url:  en/research/
+        weight: 30
+      - name: Publications
+        url: en/publication/
+        weight: 40
+      - name: Talks
+        url: en/presentations/
+        weight: 50
+      - name: Tutorials
+        url: en/tutorials/
+        weight: 60
+      - name: CV
+        url: ''
+        weight: 70
+      - name: French CV
+        parent: CV
+        url: cv/CV_Herbay_2022_11_fr.pdf
+        weight: 10
+      - name: English CV
+        parent: CV
+        url: cv/CV_Herbay_2022_11_en.pdf
+        weight: 20
+
+
+fr:
+  languageCode: fr-ca
+  contentDir: content/fr
+  title: Alexandre Herbay
+  menu:
+      main:
+      main:
+      - name: Accueil
+        url: '#about'
+        weight: 10
+      - name: Profil détaillé
+        url: fr/profile/#experience
+        weight: 15
+      - name: Logiciels
+        url: '#posts'
+        weight: 20
+      - name: ERPscope
+        parent: Logiciels
+        url: fr/software/erpscope/
+        weight: 10
+      - name: SAILS
+        parent: Logiciels
+        url: http://www.dialspeech.info/sails-fr.html
+        weight: 20
+      - name: Phophlo
+        parent: Logiciels
+        url: http://www.dialspeech.info/phophlo-fr.html
+        weight: 30
+      - name: Recherche
+        url: fr/research/
+        weight: 30
+      - name: Publications
+        url: fr/publication/
+        weight: 40
+      - name: Présentations
+        url: fr/presentations_fr/
+        weight: 50
+      - name: Tutoriels
+        url: fr/tutorials_fr/
+        weight: 60
+      - name: CV
+        url: ''
+        weight: 70
+      - name: French CV
+        parent: CV
+        url: cv/CV_Herbay_2022_11_fr.pdf
+        weight: 10
+      - name: English CV
+        parent: CV
+        url: cv/CV_Herbay_2022_11_en.pdf
+        weight: 20
+        
+      
+  
+# Uncomment the lines below to configure your website in a second language.
+#zh:
+#  languageCode: zh-Hans
+#  contentDir: content/zh
+#  title: Chinese website title...
+#  params:
+#    description: Site description in Chinese...
+#  menu:
+#    main:
+#      - name: 传
+#        url: '#about'
+#        weight: 1
