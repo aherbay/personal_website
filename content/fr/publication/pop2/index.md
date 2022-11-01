@@ -6,7 +6,7 @@ authors:
 - Phaedra Royle
 - Karsten Steinhauer
 
-date: "2023-01-17T00:00:00Z"
+date: "2022-10-31T00:00:00Z"
 doi: 
 featured: false
 image:
@@ -18,10 +18,9 @@ publication:
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2018-10-17T00:00:00Z"
+publishDate: "2023-10-31T00:00:00Z"
 slides: 
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary:
 tags:
 - 
 title: "The neurocognitive mechanisms underlying proactive and retrospective semantic relational priming as revealed by event-related potentials elicited by prime and target words"

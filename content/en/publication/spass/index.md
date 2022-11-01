@@ -6,7 +6,7 @@ authors:
 - Shari R. Baum
 - Karsten Steinhauer
 
-date: 'To be submitted'
+date: "2022-10-31T00:00:00Z"
 doi: 
 featured: false
 image:
@@ -18,12 +18,12 @@ publication:
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2022-10-31T00:00:00Z"
+publishDate: "2023-10-31T00:00:00Z"
 slides: 
 summary:
 tags:
 - 
-title: "Syntactic hierarchical structures modulate within-sentence semantic priming beyond linear distance in self-paced reading"
+title: "Syntactic hierarchical structures modulate within-sentence semantic priming beyond linear distance in self-paced reading (to be submitted)"
 url_code: 
 url_dataset: ""
 url_pdf: ""
