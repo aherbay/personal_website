@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Alexandre Herbay</title>
+    <link>https://www.alexandreherbay.com/fr/publication-type/2/</link>
+      <atom:link href="https://www.alexandreherbay.com/fr/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>fr-ca</language><lastBuildDate>Tue, 17 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.alexandreherbay.com/media/icon_hu19e7c546e42d61034afff766b8d5a5af_148001_512x512_fill_lanczos_center_3.png</url>
+      <title>2</title>
+      <link>https://www.alexandreherbay.com/fr/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>ERPscope: a new R package to visualize and analyze Event-Related Potential data</title>
+      <link>https://www.alexandreherbay.com/fr/publication/erpscope/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/fr/publication/erpscope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntactic hierarchical structures modulate within-sentence semantic priming beyond linear distance in self-paced reading</title>
+      <link>https://www.alexandreherbay.com/fr/publication/spass/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/fr/publication/spass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The neurocognitive mechanisms underlying proactive and retrospective semantic relational priming as revealed by event-related potentials elicited by prime and target words</title>
+      <link>https://www.alexandreherbay.com/fr/publication/pop2/</link>
+      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/fr/publication/pop2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Influence of Hydrogel Stiffness and Fibroblasts on Macrophage Polarisation: Implication for the Inflammatory Response to Vocal Fold Biomaterials.</title>
+      <link>https://www.alexandreherbay.com/fr/publication/elisa/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/fr/publication/elisa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aging and language: Maintenance of morphological representations in older adults</title>
+      <link>https://www.alexandreherbay.com/fr/publication/aging-morphology/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/fr/publication/aging-morphology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Do French–English Bilinguals Pull Verb Particle Constructions Off? Factors Influencing Second Language Processing of Unfamiliar Structures at the Syntax-Semantics Interface</title>
+      <link>https://www.alexandreherbay.com/fr/publication/vpcl2/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/fr/publication/vpcl2/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Development of a Tool to Screen Risk of Literacy Delays in French-Speaking Children: PHOPHLO.</title>
+      <link>https://www.alexandreherbay.com/fr/publication/phophlo/</link>
+      <pubDate>Tue, 17 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/fr/publication/phophlo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

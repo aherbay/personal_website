@@ -1,0 +1,1379 @@
+<!DOCTYPE html>
+<!-- This site was created with Wowchemy. https://www.wowchemy.com -->
+<!-- Last Published: 1 novembre 2022 --><html lang="fr-ca" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.7.0 for Hugo" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.16f785cdb553c8c4431db6775122af35.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/academicons@1.9.2/css/academicons.min.css" integrity="sha512-KlJCpRsLf+KKu2VQa5vmRuClRFjxc5lXO03ixZt82HZUk41+1I0bD8KBSA0fY290ayMfWYI9udIqeOWSu1/uZg==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.060bdb35ecbfc389cefdaf23b3910470.css" />
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Alexandre Herbay" />
+
+
+
+
+
+  
+
+<meta name="description" content="ERPscope est un nouveau package R que j&#39;ai développé pour faciliter la visualisation et l&#39;exploration des données de neuroimagerie ERP." />
+
+
+
+  <link rel="alternate" hreflang="en" href="https://www.alexandreherbay.com/en/software/erpscope/" />
+
+<link rel="alternate" hreflang="fr-ca" href="https://www.alexandreherbay.com/fr/software/erpscope/" />
+<link rel="canonical" href="https://www.alexandreherbay.com/fr/software/erpscope/" />
+
+
+
+  <link rel="manifest" href="/fr/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu19e7c546e42d61034afff766b8d5a5af_148001_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu19e7c546e42d61034afff766b8d5a5af_148001_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#003366" />
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary_large_image" />
+
+  <meta property="twitter:site" content="@alex_herbay" />
+  <meta property="twitter:creator" content="@alex_herbay" />
+<meta property="twitter:image" content="https://www.alexandreherbay.com/fr/software/erpscope/featured.jpg" />
+<meta property="og:site_name" content="Alexandre Herbay" />
+<meta property="og:url" content="https://www.alexandreherbay.com/fr/software/erpscope/" />
+<meta property="og:title" content="ERPscope | Alexandre Herbay" />
+<meta property="og:description" content="ERPscope est un nouveau package R que j&#39;ai développé pour faciliter la visualisation et l&#39;exploration des données de neuroimagerie ERP." /><meta property="og:image" content="https://www.alexandreherbay.com/fr/software/erpscope/featured.jpg" /><meta property="og:locale" content="fr-ca" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2020-12-13T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2020-12-13T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>ERPscope | Alexandre Herbay</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="5fee42851dffc96d549dbea1ba4ae053" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.fe8634e7d00f14d07fb33caf14cc8e55.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Rechercher</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Recherche..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Recherche...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/fr/">Alexandre Herbay</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Ouvrir la barre de navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/fr/">Alexandre Herbay</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/fr/#about"><span>Accueil</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/fr/profile/#experience"><span>Profil détaillé</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>Logiciels</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/fr/software/erpscope/"><span>ERPscope</span></a>
+              
+                <a class="dropdown-item" href="http://www.dialspeech.info/sails-fr.html"><span>SAILS</span></a>
+              
+                <a class="dropdown-item" href="http://www.dialspeech.info/phophlo-fr.html"><span>Phophlo</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/fr/research/"><span>Recherche</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/fr/publication/"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/fr/presentations_fr/"><span>Présentations</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/fr/tutorials_fr/"><span>Tutoriels</span></a>
+          </li>
+
+          
+          
+
+          
+          <li class="nav-item dropdown">
+            <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true"><span>CV</span><span class="caret"></span>
+            </a>
+            <div class="dropdown-menu">
+              
+                <a class="dropdown-item" href="/fr/cv/CV_Herbay_2022_11_fr.pdf"><span>French CV</span></a>
+              
+                <a class="dropdown-item" href="/fr/cv/CV_Herbay_2022_11_en.pdf"><span>English CV</span></a>
+              
+            </div>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Rechercher"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>Français</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://www.alexandreherbay.com/en/software/erpscope/">
+              <span>English</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>ERPscope</h1>
+
+  
+  <p class="page-subtitle">Un package R pour visualiser et analyser les données en Potentiels Évoqués (ERP)</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span class="author-highlighted">
+      Alexandre Herbay</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    déc. 13, 2020
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/fr/category/software/">Software</a>, <a href="/fr/category/eeg/">EEG</a>, <a href="/fr/category/r/">R</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+</div>
+
+
+<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 1200px; max-height: 507px;">
+  <div style="position: relative">
+    <img src="/fr/software/erpscope/featured_hu7fba9da1679ce4a56c592454604cb9c1_821007_1200x2500_fit_q75_h2_lanczos.webp" width="1200" height="507" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <h1 id="que-sont-les-potentiels-évoqués">Que sont les Potentiels Évoqués?</h1>
+<p>Les Potentiels Évoqués (aussi appelés ERP pour Event-Related Potentials) sont une technique de neuro-imagerie basée sur l&rsquo;EEG, ou électro-encéphalographie. Des électrodes sont placées sur le cuir chevelu pour enregistrer l&rsquo;activité électrique du cerveau en temps réel. La recherche sur les ERP se concentre sur l&rsquo;activité électrique du cerveau dans les millisecondes qui suivent des événements spécifiques (par exemple, la présentation d&rsquo;un mot, d&rsquo;une image ou d&rsquo;un son spécifique). Métaphoriquement, on pourrait comparer cette recherche à l&rsquo;installation de 64 microphones au-dessus d&rsquo;une arena pendant un match de hockey. L&rsquo;idée est ensuite de déduire comment fonctionne le hockey à partir de l&rsquo;enregistrement sonore. Par exemple, nous pourrions remarquer une grande clameur provenant d&rsquo;un côté de l&rsquo;arène lorsqu&rsquo;une des deux équipes marque un but.</p>
+<h2 id="visualiser-les-données-erp">Visualiser les données ERP</h2>
+<p>Les données obtenues pour chaque participant sont généralement des données pour des centaines d&rsquo;items et cela pour plusieurs dizaines d&rsquo;électrodes. Ces données sont prétraitées à partir de l&rsquo;enregistrement continu de l&rsquo;activité électrique du cerveau (filtrage, correction, suppression des données parasites&hellip;) à l&rsquo;aide de différentes boîtes à outils existantes (par exemple, Fieldtrip, EEGLab, ERPLab, ou MNE Python). Cependant, il peut être difficile de créer des graphiques personnalisés pour visualiser ces données dans les boîtes à outils existantes. De plus, les données sont souvent exportées vers l&rsquo;environnement R pour effectuer des modélisations statistiques avancées. ERPscope a été développé avec l&rsquo;idée de combler ce manque sans remplacer aucun autre outil.</p>
+<p><a href="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Caption" srcset="
+               /fr/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_c5ed2c175403d3d4c59c1e9be0534add.webp 400w,
+               /fr/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_1e4280edbedfa58a1a270e57c4de34ab.webp 760w,
+               /fr/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/fr/software/erpscope/erpscope_overview_hu755b1d0d30cebbce7b927f3633bddec7_603909_c5ed2c175403d3d4c59c1e9be0534add.webp"
+               width="609"
+               height="760"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+</a></p>
+<h2 id="plot-and-explore">Plot and explore</h2>
+<p>Le premier objectif d&rsquo;ERPscope est de visualiser les données à travers trois graphiques classiques :</p>
+<ol>
+<li>Graphiques ERP</li>
+<li>Graphiques d&rsquo;ondes de différence</li>
+<li>Cartes topgraphiques ERP</li>
+</ol>
+<p>Le second objectif est de faciliter l&rsquo;exploration des données et notamment:</p>
+<ol>
+<li>Évaluer la variabilité des effets ERP entre les participants grâce à des graphiques de corrélation entre les effets ERP et des variables externes.</li>
+<li>Exécuter le même modèle statistique dans différentes fenêtres temporelles</li>
+</ol>
+<p>Plus de détails seront bientôt disponibles.
+Le résumé du preprint de l&rsquo;article ERPscope peut être trouvé ci-dessous.
+De plus, le code et la documentation d&rsquo;ERPscope peuvent être trouvés sur GitHub : <a href="http://www.erpscope.com" target="_blank" rel="noopener">www.erpscope.com</a></p>
+<h2 id="résumé">Résumé</h2>
+<p>Une étape cruciale de la recherche scientifique est la visualisation des données, ce qui peut s&rsquo;avérer particulièrement difficile avec les données EEG multidimensionnelles. Plusieurs boîtes à outils existent pour prétraiter les données EEG impliquant différentes plateformes, mais la création de graphiques y est souvent limitée, difficile à utiliser ou à personnaliser. Comme de nombreux chercheurs exportent déjà leurs données vers l&rsquo;environnement R (R Core Team, 2017) afin d&rsquo;effectuer leurs analyses statistiques, il serait préférable d&rsquo;exploiter le fortes capacité de R pour la création de graphique. Nous présentons ici ERPscope, un package R librement disponible qui facilite la visualisation, la quantification et l&rsquo;analyse statistique des données ERP. Ce package ergonomique permet la création de graphiques et de cartes topgraphiques ERP avec des options de personnalisation flexibles et intuitives. Il offre un ensemble de fonctions permettant de tracer les ondes ERP (plot_erp) et les graphiques de différence ERP (plot_difference) pour un ensemble délectrodes individuelles ou de régions d&rsquo;intérêt. Les deux fonctions peuvent ajouter des étiquettes à des points temporels spécifiques (par exemple, le mot &ldquo;cible&rdquo;), tracer des intervalles de confiance autour de la forme d&rsquo;onde moyenne, indiquer l&rsquo;intervalle de ligne de base utilisé dans le prétraitement et appliquer des corrections de baselines alternatives (simulées). L&rsquo;arrrière plan du graphique, les couleurs des lignes, les types de lignes et l&rsquo;épaisseur sont facilement ajustables pour chaque onde ERP. Il est également possible d&rsquo;afficher les résultats d&rsquo;un test-t entre deux conditions à chaque électrode avec l&rsquo;onde de différence ERP et de tracer des cartes topographiques pour des fenêtres de temps personnalisées. La fonction plot_cor_with_erp calcule et trace la corrélation entre un effet ERP dans une fenêtre temporelle donnée et une variable externe (par exemple, des données de performance) pour diverses régions du cuir chevelu. Enfin, en utilisant generate_ERP_stats_table, on peut exécuter le même modèle statistique sur différentes fenêtres temporelles et créer un tableau facile à lire qui met en évidence les facteurs significatifs (qui peuvent être codés par couleur selon la polarité). ERPscope est compatible avec la plupart des pipelines d&rsquo;analyse de données existants. Pour plus de détails et d&rsquo;illustrations, veuillez consulter le site <a href="http://www.erpscope.com" target="_blank" rel="noopener">www.erpscope.com</a>.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/fr/tag/logiciel/">Logiciel</a>
+  
+  <a class="badge badge-light" href="/fr/tag/package-r/">Package R</a>
+  
+  <a class="badge badge-light" href="/fr/tag/electroencephalographie/">Electroencephalographie</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.alexandreherbay.com%2Ffr%2Fsoftware%2Ferpscope%2F&amp;text=ERPscope" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.alexandreherbay.com%2Ffr%2Fsoftware%2Ferpscope%2F&amp;t=ERPscope" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=ERPscope&amp;body=https%3A%2F%2Fwww.alexandreherbay.com%2Ffr%2Fsoftware%2Ferpscope%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fwww.alexandreherbay.com%2Ffr%2Fsoftware%2Ferpscope%2F&amp;title=ERPscope" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=ERPscope%20https%3A%2F%2Fwww.alexandreherbay.com%2Ffr%2Fsoftware%2Ferpscope%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fwww.alexandreherbay.com%2Ffr%2Fsoftware%2Ferpscope%2F&amp;title=ERPscope" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://www.alexandreherbay.com/"><img class="avatar mr-3 avatar-circle" src="/fr/authors/admin/avatar_hu26831b3cec3fa9d75d3e4eac6f6f3f99_567945_270x270_fill_q75_lanczos_center.jpg" alt="Alexandre Herbay"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://www.alexandreherbay.com/">Alexandre Herbay</a></h5>
+      <h6 class="card-subtitle">Chercheur &amp; Développeur</h6>
+      <p class="card-text">Mes intérets incluent l&rsquo;informatique, l&rsquo;IA, les sciences de la données, les neurosciences cognitives et la linguistique.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/alex_herbay" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=PBlWOmYAAAAJ" target="_blank" rel="noopener">
+        <i class="fas fa-graduation-cap"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/aherbay" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/alexandre-herbay-5a799850/" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2022 - Alexandre Herbay
+  </p>
+  
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Adapté de <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> par Alexandre Herbay
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.d26509351aa0ff874abbee824e982e9b.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/fr/js/wowchemy.min.d215f5182d86f8e00b6cff91a55e7974.js"></script>
+
+
+
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Citation</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copier
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Télécharger
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.68f8d7090562ca65fc6d3cb3f8f2d2cb.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

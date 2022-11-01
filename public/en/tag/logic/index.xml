@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logic | Alexandre Herbay</title>
+    <link>https://www.alexandreherbay.com/en/tag/logic/</link>
+      <atom:link href="https://www.alexandreherbay.com/en/tag/logic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Logic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.alexandreherbay.com/media/icon_hu19e7c546e42d61034afff766b8d5a5af_148001_512x512_fill_lanczos_center_3.png</url>
+      <title>Logic</title>
+      <link>https://www.alexandreherbay.com/en/tag/logic/</link>
+    </image>
+    
+    <item>
+      <title>Faire une table de vérité en sémantique formelle</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/table_verite/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/table_verite/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

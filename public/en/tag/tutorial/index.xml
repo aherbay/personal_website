@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial | Alexandre Herbay</title>
+    <link>https://www.alexandreherbay.com/en/tag/tutorial/</link>
+      <atom:link href="https://www.alexandreherbay.com/en/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tutorial</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 20 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.alexandreherbay.com/media/icon_hu19e7c546e42d61034afff766b8d5a5af_148001_512x512_fill_lanczos_center_3.png</url>
+      <title>Tutorial</title>
+      <link>https://www.alexandreherbay.com/en/tag/tutorial/</link>
+    </image>
+    
+    <item>
+      <title>Create a GitHub repo and a versioned R project</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/create_github_repo_and_a_versioned_r_project/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/create_github_repo_and_a_versioned_r_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create a project in R Studio</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/create-r-project/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/create-r-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create an R project versioned with git</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/create-versioned-project/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/create-versioned-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Create an RMarkdown document</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/rmarkdown_doc/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/rmarkdown_doc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Faire une table de vérité en sémantique formelle</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/table_verite/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/table_verite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Introduction to R an RStudio</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/r_introduction/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/r_introduction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set up git and GitHub</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Use git commands within the RStudio Interface</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/</link>
+      <pubDate>Tue, 20 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
