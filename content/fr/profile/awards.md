@@ -10,7 +10,7 @@ headless: true
 weight: 30
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Awards'
+title: 'Distinctions & Bourses'
 subtitle:
 
 # Date format
@@ -34,8 +34,8 @@ item:
   - certificate_url:
     date_end: ''
     date_start: '2018-01-01'
-    description: CJSLPA Editor's Award annually recognizes the best paper published in the Canadian Journal of Speech-Language Pathology and Audiology. 
-    organization:  Canadian Journal of Speech-Language Pathology and Audiology.
+    description: Le prix de la rédaction de la Revue Canadienne d'Orthophonie et d'Audiologie récompense chaque année le meilleur article publié dans la Revue canadienne d'orthophonie et d'audiologie. 
+    organization:  Revue canadienne d'orthophonie et d'audiologie.
     organization_url: https://www.cjslpa.ca/
     title: Prix de l'éditeur - meilleur article de l'année
     url: https://www.cjslpa.ca/?lang=fr

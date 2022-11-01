@@ -26,7 +26,7 @@ experience:
     company: Université McGill - École des Sciences de la Communication Humaine
     company_url: ''
     company_logo: 'mcgill_logo'
-    location: Montreal, CA
+    location: Montréal, CA
     date_start: '2014-09-01'
     date_end: '2022-06-01'
     description: |2-
@@ -59,7 +59,7 @@ experience:
     company_url: ''
     company_logo: paul_sab_logo
     location: Toulouse, FR
-    date_start: '2008-09-01'
+    date_start: '2007-09-01'
     date_end: '2011-06-01'
     description: ''
 
@@ -68,8 +68,8 @@ experience:
     company_url: ''
     company_logo: saint_sernin_logo
     location: Toulouse, FR
-    date_start: '2007-09-01'
-    date_end: '2008-06-01'
+    date_start: '2006-09-01'
+    date_end: '2007-06-01'
     description: ''
 
   - title: "Baccalauréat Scientifique, Spécialité Mathématiques, Mention Très bien"
@@ -77,8 +77,8 @@ experience:
     company_url: ''
     company_logo: midipy_logo
     location: Cugnaux, FR
-    date_start: '2007-06-01'
-    date_end: '2007-06-01'
+    date_start: '2006-06-01'
+    date_end: '2006-06-01'
     description: ''
     
 design:
@@ -86,5 +86,5 @@ design:
 ---
 
 <p style="text-align: center;"> <a style='margin-right: 20px' href="#education">Éducation</a> 
-<a style='margin-right: 20px' href="#experience">Experience Professionnelle</a>
-<a style='margin-right: 20px' href="#awards">Distinctions</a> </p>
+<a style='margin-right: 20px' href="#experience">Expérience Professionnelle</a>
+<a style='margin-right: 20px' href="#awards">'Distinctions & Bourses'</a> </p>

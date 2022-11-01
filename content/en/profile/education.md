@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Ph.D. in Communication Sciences and Disorders
-    company: McGill University - School of Sciences and Disorders
+    company: McGill University - School of Communication Sciences & Disorders
     company_url: ''
     company_logo: 'mcgill_logo'
     location: Montreal, CA
@@ -49,7 +49,7 @@ experience:
     company: Université de Montréal
     company_url: ''
     company_logo: 'udem_logo'
-    location: Montréal, CA
+    location: Montreal, CA
     date_start: '2010-09-01'
     date_end: '2014-05-01'
     description: 'Optional Seminars:   Acquisition du Langage with D. Valois, Neuropsychologie du langage with P.Royle et Origine du langage with D. Bouchard'
@@ -59,7 +59,7 @@ experience:
     company_url: ''
     company_logo: paul_sab_logo
     location: Toulouse, FR
-    date_start: '2008-09-01'
+    date_start: '2007-09-01'
     date_end: '2011-06-01'
     description: ''
 
@@ -68,17 +68,17 @@ experience:
     company_url: ''
     company_logo: saint_sernin_logo
     location: Toulouse, FR
-    date_start: '2007-09-01'
-    date_end: '2008-06-01'
-    description: ''
+    date_start: '2006-09-01'
+    date_end: '2007-06-01'
+    description: "Selective intensive preparatory course (or cram school) with the main goal of training students for enrolment in one of the French ['grandes écoles'](https://en.wikipedia.org/wiki/Grande_%C3%A9cole)."
 
   - title: "Baccalauréat Scientifique, Spécialité Mathématiques, Mention Très bien"
     company: Lycée Henri Matisse
     company_url: ''
     company_logo: midipy_logo
     location: Cugnaux, FR
-    date_start: '2007-06-01'
-    date_end: '2007-06-01'
+    date_start: '2006-06-01'
+    date_end: '2006-06-01'
     description: ''
     
 design:
@@ -87,4 +87,4 @@ design:
 
 <p style="text-align: center;"> <a style='margin-right: 20px' href="#education">Education</a> 
 <a style='margin-right: 20px' href="#experience">Professional experience</a>
-<a style='margin-right: 20px' href="#awards">Awards</a> </p>
+<a style='margin-right: 20px' href="#awards">Awards & Fellowships</a> </p>

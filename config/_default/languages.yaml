@@ -98,11 +98,11 @@ fr:
       - name: CV
         url: ''
         weight: 70
-      - name: French CV
+      - name: CV français
         parent: CV
         url: cv/CV_Herbay_2022_11_fr.pdf
         weight: 10
-      - name: English CV
+      - name: CV anglais
         parent: CV
         url: cv/CV_Herbay_2022_11_en.pdf
         weight: 20

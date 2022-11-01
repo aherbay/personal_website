@@ -7,7 +7,7 @@ image:
 url_slides: "en/presentations-content/2022_thesis_defence/slides/"
 summary: Thesis defence 2022
 tags:
-- Autre
+- Other
 title: "The modulation of semantic association effects by relational and syntactic structures - Brain & behavioral correlates"
 ---
 

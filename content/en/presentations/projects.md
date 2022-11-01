@@ -32,7 +32,7 @@ content:
     - name: Conference
       tag: Conference
     - name: Other
-      tag: Autre
+      tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

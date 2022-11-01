@@ -46,8 +46,8 @@ superuser: true
 title: Alexandre Herbay
 ---
 
-Je suis passioné par la cognition humaine & le langage, les sciences de la donnée & l'IA, et par le développement logiciel. Je suis actuellement à la recherche de nouvelles opportunités professionelles en R&D reliée à ces domaines.
+Je suis passioné par la cognition humaine & le langage, les sciences de la donnée & l'IA, et par le développement logiciel. Je suis actuellement à la recherche de nouvelles opportunités professionelles en R&D reliées à ces domaines.
 
 Dans le cadre de mon doctorat au sein des laboratoires de Neurocognition du Langage et de Neurolinguistique, j’ai étudié la manière dont le cerveau traite le langage. Plus spécifiquement, j'ai évalué la manière dont les relations sémantiques et la structure des phrases influencent l'accès au sens des mots en temps réél.
 
-En parallèlle de mes recherches, je développe des logiciels que cela soit sous la forme d'un package R pour la recherche en neuroscience (ERPscope) ou sous la forme d'applications mobiles permettant d'évaluer le développement du langage oral chez l'enfant (Phophlo) ou encore d"évaluer et rééduquer la perception des sons de la parole dans un contexte orthophonique (SAILS).
+En parallèlle de mes recherches, je développe des logiciels que cela soit sous la forme d'un package R pour la recherche en neuroscience (ERPscope) ou sous la forme d'applications mobiles. Ces apps permettent d'évaluer le développement du langage oral chez l'enfant (Phophlo) ou encore d"évaluer et rééduquer la perception des sons de la parole dans un contexte orthophonique (SAILS).

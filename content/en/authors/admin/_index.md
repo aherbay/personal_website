@@ -25,7 +25,7 @@ organizations:
 - name: "Neurocognition of Language Lab"
   univ: "McGill University"
   url: https://www.mcgill.ca/neurocoglab/
-role: Researcher & Developper
+role: Researcher & Developer
 social:
 - display:
     header: false
@@ -49,4 +49,9 @@ I am passionate about human cognition & language, data science & AI and software
 
 As part of my PhD in the McGill Neurocognition of Language lab, I investigated how the brain processes language. More specifically, I evaluated how semantic relations and sentence structure influence the way the brain accesses the meaning of words in real time. 
 
-Besides my research, I  develop software, whether in the form of an R package for neuroimaging research (ERPscope) or mobile apps to assess language development and to detect language difficulties early on (SAILS and Phophlo). 
+Besides my research, I  develop software, whether in the form of an R package for neuroimaging research (ERPscope) or in the form of mobile iOS apps to assess oral language development 
+
+These apps allow to evaluate the development of oral language in children and detect language difficulties early on (Phophlo) or to assess and treat the perception of speech sounds in a speech & language therapy context (SAILS).
+
+
+

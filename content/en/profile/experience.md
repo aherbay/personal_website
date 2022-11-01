@@ -26,7 +26,7 @@ experience:
     company: ''
     company_url: ''
     company_logo: 'logo_erpscope_2'
-    location: Montreal
+    location: Montreal, CA
     date_start: '2020-07-01'
     date_end: ''
     description: |2-
@@ -36,7 +36,7 @@ experience:
     company: Child Phonology Lab
     company_url: 'https://www.mcgill.ca/child-phonology/'
     company_logo: dialspeech_logo
-    location: Montréal,CA
+    location: Montreal, CA
     date_start: '2016-01-01'
     date_end: ''
     description: |2-
@@ -52,7 +52,7 @@ experience:
     company: School of Communication Sciences & Disorders - McGill University
     company_url: ''
     company_logo: mcgill_logo
-    location: Montréal,CA
+    location: Montreal, CA
     date_start: '2018-09-01'
     date_end: '2018-12-31'
     description: |2-
@@ -64,17 +64,17 @@ experience:
     company: "Computer Research Institute of Montreal"
     company_url: ''
     company_logo: crim_logo
-    location: Montréal,CA
-    date_start: '2011-09-01'
-    date_end: '2014-05-31'
+    location: Montreal, CA
+    date_start: '2015-08-01'
+    date_end: '2015-12-31'
     description: "Complete development of an online application (using Angular) running on tablets and computers, and based on an online database (CouchDB, PouchDB & Express JS)"
 
   - title: Research Assistant
     company: "Laboratoire d’Acquisition et Traitement du Langage - Université de Montréal & iLanguage Lab"
     company_url: ''
     company_logo: udem_logo
-    location: Montréal,CA
-    date_start: '2011-09-01'
+    location: Montreal, CA
+    date_start: '2013-10-01'
     date_end: '2014-05-31'
     description: "HTML programming for an online application project based on the MontageJS framework and mentoring of a student studying in the bachelor in speech and language therapy"
 
@@ -83,10 +83,10 @@ experience:
     company: Linguistics & Translation Department - Université de Montréal
     company_url: ''
     company_logo: udem_logo
-    location: Montréal,CA
+    location: Montreal, CA
     date_start: '2011-09-01'
     date_end: '2014-05-31'
-    description: "Weekly tutorials, preparation of methodological worksheets, exercises, exam topics & correction for 5 linguistics and translation courses: Computer Tools for Translators (2011 to 2012), Language and Technology (2011), Notions of Syntax (2012 to 2014), Syntax (2013) and Lexicology, Semantics and Morphology (2013)"
+    description: "Weekly tutorials, preparation of methodological worksheets, learning activities, exam topics & correction for 5 linguistics and translation courses: Computer Tools for Translators (2011 to 2012), Language and Technology (2011), Notions of Syntax (2012 to 2014), Syntax (2013) and Lexicology, Semantics and Morphology (2013)"
 
 design:
   columns: '2'
