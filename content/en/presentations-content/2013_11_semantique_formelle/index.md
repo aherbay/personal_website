@@ -7,7 +7,7 @@ image:
 url_pdf: "en/presentations-content/2013_11_semantique_formelle/LNG1080-IntroductionSemantiqueFormelle.pdf"
 summary: Cours invité - Lexicologie, Sémantique et Morphologie enseigné par Mireille Tremblay
 tags:
-- 'Cours invité'
+- 'Invited lecture'
 title: "Introduction à la sémantique formelle"
 ---
 
