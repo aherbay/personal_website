@@ -4,7 +4,7 @@ abstract: "A crucial step of scientific research is visualizing the data, which 
 authors:
 - admin
 
-date: "2023-01-18T00:00:00Z"
+date:
 doi: 
 featured: false
 image:
@@ -18,11 +18,10 @@ publication_types:
 - "2"
 publishDate: "In preparation"
 slides: 
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 tags:
 - 
-title: "ERPscope: a new R package to visualize and analyze Event-Related Potential data"
+title: "ERPscope: a new R package to visualize and analyze Event-Related Potential data (to be submitted)"
 url_code: 
 url_dataset: ""
 url_pdf: ""
