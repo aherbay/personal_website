@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/publication-type/2/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -30,7 +30,7 @@
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -44,7 +44,7 @@
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/publication/erpscope/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -58,7 +58,7 @@
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/publication_types/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -72,7 +72,7 @@
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/publication/</loc>
-    <lastmod>2023-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -86,7 +86,7 @@
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/publication/spass/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -100,7 +100,7 @@
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/publication/pop2/</loc>
-    <lastmod>2023-01-17T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -111,52 +111,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.alexandreherbay.com/en/publication/pop2/"
-                />
-  </url><url>
-    <loc>https://www.alexandreherbay.com/en/tag/research-project/</loc>
-    <lastmod>2022-12-31T15:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://www.alexandreherbay.com/en/research-content/</loc>
-    <lastmod>2022-12-31T15:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.alexandreherbay.com/fr/research-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.alexandreherbay.com/en/research-content/"
-                />
-  </url><url>
-    <loc>https://www.alexandreherbay.com/en/tags/</loc>
-    <lastmod>2022-12-31T15:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.alexandreherbay.com/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.alexandreherbay.com/en/tags/"
-                />
-  </url><url>
-    <loc>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</loc>
-    <lastmod>2022-12-31T15:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.alexandreherbay.com/fr/research-content/syntactic_structure_and_priming/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/"
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/tutorials-content/r_introduction/</loc>
@@ -199,6 +153,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.alexandreherbay.com/en/tag/rstudio/"
+                />
+  </url><url>
+    <loc>https://www.alexandreherbay.com/en/tags/</loc>
+    <lastmod>2022-06-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.alexandreherbay.com/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.alexandreherbay.com/en/tags/"
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/tag/tutorial/</loc>
@@ -331,20 +299,6 @@
                 href="https://www.alexandreherbay.com/en/tag/rmarkdown/"
                 />
   </url><url>
-    <loc>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</loc>
-    <lastmod>2022-02-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.alexandreherbay.com/fr/tutorials-content/set_up_git_and_github/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/"
-                />
-  </url><url>
     <loc>https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/</loc>
     <lastmod>2022-01-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -359,6 +313,38 @@
                 href="https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/"
                 />
   </url><url>
+    <loc>https://www.alexandreherbay.com/en/tag/research-project/</loc>
+    <lastmod>2021-12-31T15:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://www.alexandreherbay.com/en/research-content/</loc>
+    <lastmod>2021-12-31T15:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.alexandreherbay.com/fr/research-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.alexandreherbay.com/en/research-content/"
+                />
+  </url><url>
+    <loc>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</loc>
+    <lastmod>2021-12-31T15:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.alexandreherbay.com/fr/research-content/syntactic_structure_and_priming/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/"
+                />
+  </url><url>
     <loc>https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/</loc>
     <lastmod>2021-12-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -371,6 +357,34 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/"
+                />
+  </url><url>
+    <loc>https://www.alexandreherbay.com/en/tag/github/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.alexandreherbay.com/fr/tag/github/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.alexandreherbay.com/en/tag/github/"
+                />
+  </url><url>
+    <loc>https://www.alexandreherbay.com/en/tutorials-content/git_github_setup/</loc>
+    <lastmod>2021-11-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://www.alexandreherbay.com/fr/tutorials-content/git_github_setup/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.alexandreherbay.com/en/tutorials-content/git_github_setup/"
                 />
   </url><url>
     <loc>https://www.alexandreherbay.com/en/tutorials-content/table_verite/</loc>
@@ -579,20 +593,6 @@
                 href="https://www.alexandreherbay.com/en/publication/2020_1/"
                 />
   </url><url>
-    <loc>https://www.alexandreherbay.com/en/tag/cours-invite/</loc>
-    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://www.alexandreherbay.com/fr/tag/cours-invite/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.alexandreherbay.com/en/tag/cours-invite/"
-                />
-  </url><url>
     <loc>https://www.alexandreherbay.com/en/presentations-content/2019_11_apps/</loc>
     <lastmod>2019-12-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -606,6 +606,10 @@
                 hreflang="en"
                 href="https://www.alexandreherbay.com/en/presentations-content/2019_11_apps/"
                 />
+  </url><url>
+    <loc>https://www.alexandreherbay.com/en/tag/invited-lecture/</loc>
+    <lastmod>2019-12-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://www.alexandreherbay.com/en/presentations-content/2019_11_dev_langage/</loc>
     <lastmod>2019-11-22T00:00:00+00:00</lastmod>

@@ -39,8 +39,6 @@
 
 .avatar-hexagon {
   clip-path: polygon(7% 25%, 50% 0, 93% 25%, 93% 75%, 50% 100%, 7% 75%);
-  
-  
 }
 
 .wg-about .background-img {
@@ -48,6 +46,26 @@
   bottom: 0px;
   @media screen and (min-width: 768px) {
     bottom: 70px;
+  }
+}
+
+body.dark .background-display {
+  display: none;
+}
+
+body:not(.dark)  .background-dark-display {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .background-dark-display {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .background-display {
+    display: none;
   }
 }
 

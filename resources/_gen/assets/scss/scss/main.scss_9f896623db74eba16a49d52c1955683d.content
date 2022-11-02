@@ -9199,6 +9199,20 @@ html[dir='rtl'] body {
   @media screen and (min-width: 768px) {
     .wg-about .background-img {
       bottom: 70px; } }
+body.dark .background-display {
+  display: none; }
+
+body:not(.dark) .background-dark-display {
+  display: none; }
+
+@media screen and (max-width: 768px) {
+  .background-dark-display {
+    display: none; } }
+
+@media screen and (max-width: 768px) {
+  .background-display {
+    display: none; } }
+
 .avatar-square {
   border-radius: 3px; }
 

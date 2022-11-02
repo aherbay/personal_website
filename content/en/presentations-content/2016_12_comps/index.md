@@ -6,7 +6,7 @@ image:
   focal_point: Smart
 url_slides: "en/presentations-content/2016_12_comps/slides/"
 url_pdf: "en/presentations-content/2016_12_comps/Herbay-CompsPresentation.pdf" 
-summary: Presenting my comprehensive exam major paper
+summary: Oral presentation for the defense of my doctoral comprehensive exam
 tags:
 - Other
 title: "Routes to Visual Word Recognition Modelling - A comparative analysis of 3 computational models of reading aloud"

@@ -45,14 +45,6 @@
     </item>
     
     <item>
-      <title>Set up git and GitHub</title>
-      <link>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</link>
-      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Use git commands within RStudio</title>
       <link>https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
@@ -65,6 +57,14 @@
       <link>https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set up git and GitHub</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/git_github_setup/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/git_github_setup/</guid>
       <description></description>
     </item>
     

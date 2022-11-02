@@ -5,7 +5,7 @@ image:
   caption: Cover picture
   focal_point: Smart
 url_slides: "en/presentations-content/2022_thesis_defence/slides/"
-summary: Thesis defence presentation
+summary: Presentation of my dissertation defense 
 tags:
 - Other
 title: "The modulation of semantic association effects by relational and syntactic structures - Brain & behavioral correlates"

@@ -5,7 +5,7 @@
     <link>https://www.alexandreherbay.com/en/</link>
       <atom:link href="https://www.alexandreherbay.com/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexandre Herbay</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 18 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.alexandreherbay.com/media/icon_hu19e7c546e42d61034afff766b8d5a5af_148001_512x512_fill_lanczos_center_3.png</url>
       <title>Alexandre Herbay</title>
@@ -21,34 +21,26 @@
     </item>
     
     <item>
-      <title>ERPscope: a new R package to visualize and analyze Event-Related Potential data</title>
+      <title>ERPscope: a new R package to visualize and analyze Event-Related Potential data (to be submitted)</title>
       <link>https://www.alexandreherbay.com/en/publication/erpscope/</link>
-      <pubDate>Wed, 18 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.alexandreherbay.com/en/publication/erpscope/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Syntactic hierarchical structures modulate within-sentence semantic priming beyond linear distance in self-paced reading</title>
+      <title>Syntactic hierarchical structures modulate within-sentence semantic priming beyond linear distance in self-paced reading (to be submitted)</title>
       <link>https://www.alexandreherbay.com/en/publication/spass/</link>
-      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.alexandreherbay.com/en/publication/spass/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The neurocognitive mechanisms underlying proactive and retrospective semantic relational priming as revealed by event-related potentials elicited by prime and target words</title>
+      <title>The neurocognitive mechanisms underlying proactive and retrospective semantic relational priming as revealed by event-related potentials elicited by prime and target words (to be submitted)</title>
       <link>https://www.alexandreherbay.com/en/publication/pop2/</link>
-      <pubDate>Tue, 17 Jan 2023 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       <guid>https://www.alexandreherbay.com/en/publication/pop2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The influence of sentence structure on brain processing of the meaning of upcoming word</title>
-      <link>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</link>
-      <pubDate>Sat, 31 Dec 2022 15:00:00 +0000</pubDate>
-      <guid>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</guid>
       <description></description>
     </item>
     
@@ -93,14 +85,6 @@
     </item>
     
     <item>
-      <title>Set up git and GitHub</title>
-      <link>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</link>
-      <pubDate>Sun, 20 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.alexandreherbay.com/en/tutorials-content/set_up_git_and_github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Use git commands within RStudio</title>
       <link>https://www.alexandreherbay.com/en/tutorials-content/use_git_within_rstudio/</link>
       <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
@@ -109,10 +93,26 @@
     </item>
     
     <item>
+      <title>The influence of sentence structure on brain processing of the meaning of upcoming word</title>
+      <link>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</link>
+      <pubDate>Fri, 31 Dec 2021 15:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/research-content/syntactic_structure_and_priming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GitHub repo and versioned R project</title>
       <link>https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://www.alexandreherbay.com/en/tutorials-content/github_repo_versioned_r_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Set up git and GitHub</title>
+      <link>https://www.alexandreherbay.com/en/tutorials-content/git_github_setup/</link>
+      <pubDate>Mon, 22 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.alexandreherbay.com/en/tutorials-content/git_github_setup/</guid>
       <description></description>
     </item>
     
