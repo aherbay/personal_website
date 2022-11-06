@@ -30,4 +30,4 @@ design:
 <p style="text-align: center;  padding-top: 20px;  margin-bottom: -2rem;"> <a style='margin-right: 20px' href="#education">Education</a> 
 <a style='margin-right: 20px' href="#experience">Professional experience</a>
 <a style='margin-right: 20px; ' href="#awards">Awards & Fellowships</a>
-<a style='margin-right: 20px; ' href="#community-service">Community Service</a> </p>
+<a style='margin-right: 20px; ' href="#community-service">Service</a> </p>
