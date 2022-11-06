@@ -84,7 +84,3 @@ experience:
 design:
   columns: '2'
 ---
-
-<p style="text-align: center;"> <a style='margin-right: 20px' href="#education">Éducation</a> 
-<a style='margin-right: 20px' href="#experience">Expérience Professionnelle</a>
-<a style='margin-right: 20px' href="#awards">Distinctions & Bourses</a> </p>

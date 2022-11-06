@@ -40,6 +40,14 @@ item:
     title: Prix de l'éditeur - meilleur article de l'année
     url: https://www.cjslpa.ca/?lang=fr
   - certificate_url: 
+    date_end: '2018-12-01'
+    date_start: '2018-12-01'
+    description: 'Concours mis en place afin de promouvoir la recherche interdisciplinaire et soutenir la formation des membres-étudiants aux cycles supérieurs'
+    organization: Centre de recherche sur le cerveau, la musique et le langage
+    organization_url: https://crblm.ca/
+    title: 'Bourse d’excellence pour étudiants aux cycles supérieurs'
+    url: https://crblm.ca/fr/ressources/opportunites-de-financement/graduate-student-stipends/
+  - certificate_url: 
     date_end: '2018-05-01'
     date_start: '2021-12-01'
     description: 'Classé au 1er rang sur 13 candidatures évaluées par le comité d’évaluation 11B - Linguistique / Traduction'

@@ -48,6 +48,14 @@ item:
     title: 'Doctoral Research Fellowship'
     url: ''
   - certificate_url: 
+    date_end: '2018-12-01'
+    date_start: '2018-12-01'
+    description: 'Competitive stipends available to promote interdisciplinary research and to support training opportunities for its graduate student members'
+    organization: Center for Research on Brain, Music and Language
+    organization_url: https://crblm.ca/
+    title: 'Graduate Student Excellence Award'
+    url: https://crblm.ca/resources/funding-opportunities/graduate-student-stipends/#1513877571598-5d0d73c2-0b13
+  - certificate_url: 
     date_end: '2017-05-08'
     date_start: '2017-05-12'
     description: "Title of the poster *Les mécanismes neurocognitifs sous-jacents aux aspects de sémantique logique du traitement de la phrase - une étude en potentiels évoqués (PE) sur la vérification des conditions de vérité*"
