@@ -47,7 +47,7 @@ The second goal is to facilitate data exploration and more specifically:
 
 More details will come soon. 
 The abstract of the preprint of the paper ERPscope can be found below.
-Morevoer, ERPscope can be found on GitHub: [www.erpscope.com](http://www.erpscope.com)
+Morevoer, ERPscope can be found on GitHub: [www.erpscope.org](http://www.erpscope.org)
 
 ## Abstract
 
