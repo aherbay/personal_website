@@ -47,7 +47,7 @@ Le second objectif est de faciliter l'exploration des données et notamment:
 
 Plus de détails seront bientôt disponibles. 
 Le résumé du preprint de l'article ERPscope peut être trouvé ci-dessous.
-De plus, le code et la documentation d'ERPscope peuvent être trouvés sur GitHub : [www.erpscope.com](http://www.erpscope.com)
+De plus, le code et la documentation d'ERPscope peuvent être trouvés sur GitHub : [www.erpscope.org](http://www.erpscope.org)
 
 ## Résumé
 
