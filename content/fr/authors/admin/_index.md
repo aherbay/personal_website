@@ -15,17 +15,17 @@ email: ""
 first_name: Alexandre
 highlight_name: true
 interests:
+- Science des données
 - "Informatique: développement logiciel et IA"
-- Sciences de la donnée
+- Communication scientifique
 - Neurosciences cognitives
 - Linguistique
-- Communication scientifique
 last_name: Herbay
 organizations:
 - name: "Lab. de Neurocognition du Language"
   univ: "Université McGill"
   url: https://www.mcgill.ca/neurocoglab/
-role: Chercheur & Développeur
+role: Scientifique & Développeur
 social:
 - display:
     header: false
@@ -46,8 +46,12 @@ superuser: true
 title: Alexandre Herbay
 ---
 
-Je suis passioné par la cognition humaine & le langage, les sciences de la donnée & l'IA, et par le développement logiciel. Je suis actuellement à la recherche de nouvelles opportunités professionelles en R&D reliées à ces domaines.
+Je suis passionné par la science des données et le développement logiciel, que ce soit pour créer des outils pour les scientifiques et les cliniciens, étudier la cognition humaine et le langage, ou dans le contexte de l'intelligence artificielle.
 
-Dans le cadre de mon doctorat au sein des laboratoires de Neurocognition du Langage et de Neurolinguistique, j’ai étudié la manière dont le cerveau traite le langage. Plus spécifiquement, j'ai évalué la manière dont les relations sémantiques et la structure des phrases influencent l'accès au sens des mots en temps réél.
+Dans le cadre de mon doctorat, j'ai utilisé une technique de neuro-imagerie basée sur l'EEG (ERP) afin d'évaluer comment les relations sémantiques et la structure des phrases influencent la façon dont le cerveau accède au sens des mots en temps réel. J'ai également créé un nouveau package R (ERPscope) afin de réaliser des analyses et des visualisations de grande qualité et facilement personnalisables.
 
-En parallèlle de mes recherches, je développe des logiciels que cela soit sous la forme d'un package R pour la recherche en neuroscience (ERPscope) ou sous la forme d'applications mobiles. Ces apps permettent d'évaluer le développement du langage oral chez l'enfant (Phophlo) ou encore d"évaluer et rééduquer la perception des sons de la parole dans un contexte orthophonique (SAILS).
+En parallèlle, je développe des applications mobiles iOS. Phophlo permet d'évaluer la production et la perception du langage oral chez les enfants et une détection précoce des difficultés langagières tandis que SAILS permet d'évaluer et de traiter la perception des sons de la parole dans un contexte orthophonique.
+
+
+
+

@@ -1,5 +1,5 @@
 ---
-bio: My work interests include computer science, data science, cognitive neuroscience and linguistics.
+bio: My work interests include data science, computer science, cognitive neuroscience and linguistics.
 education:
   courses:
   - course: Ph.D. in Comm. Sciences and Disorders
@@ -15,17 +15,17 @@ email: ""
 first_name: Alexandre
 highlight_name: true
 interests:
-- "Computer sciences: software development & AI"
 - Data science
+- "Computer sciences: software development & AI"
+- Scientific communication 
 - Cognitive neuroscience
 - Linguistics
-- Scientific communication 
 last_name: Herbay
 organizations:
 - name: "Neurocognition of Language Lab"
   univ: "McGill University"
   url: https://www.mcgill.ca/neurocoglab/
-role: Researcher & Developer
+role: Scientist & Developer
 social:
 - display:
     header: false
@@ -45,13 +45,9 @@ social:
 superuser: true
 title: Alexandre Herbay
 ---
-I am passionate about human cognition & language, data science & AI and software development. I am currently looking for new professional opportunities in R&D related to these fields.
 
-As part of my PhD in the McGill Neurocognition of Language lab, I investigated how the brain processes language. More specifically, I evaluated how semantic relations and sentence structure influence the way the brain accesses the meaning of words in real time. 
+I am passionate about data science and software development, whether to create useful tools for scientists and clinicians, study human cognition & language, or in the context of artificial intelligence.
 
-Besides my research, I  develop software, whether in the form of an R package for neuroimaging research (ERPscope) or in the form of mobile iOS apps to assess oral language development 
+As part of my Ph.D. in the McGill Neurocognition of Language lab, I evaluated how semantic relations and sentence structure influence the way the brain accesses the words’ meaning in real-time. To that end, I used advanced statistical modelling on event-related potentials data (a neuroimaging technique based on EEG). As I lacked a tool to best visualize and explore high-dimensional ERP data, I created a new R package (ERPscope) to easily perform high-quality and customizable analyses and visualizations.
 
-These apps allow to evaluate the development of oral language in children and detect language difficulties early on (Phophlo) or to assess and treat the perception of speech sounds in a speech & language therapy context (SAILS).
-
-
-
+Besides my research, I develop software in the form of mobile iOS apps. Phophlo allows to evaluate oral language production and perception in children and detect language difficulties early on, while SAILS helps to assess and treat the perception of speech sounds in a speech & language therapy context.
